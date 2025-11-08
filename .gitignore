@@ -2,4 +2,7 @@ output/*.rds
 output/*.png
 report.html
 .DS_Store
-.Rproj.user
+.Rproj.user/
+.Rhistory
+.RData
+*.Rproj
